@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeScanner</string>
+
+    <string name="action_about">О программе</string>
+    <string name="action_view_saved">Сохраненные результаты</string>
+
+    <string name="scan_btn_title">Сканировать</string>
+    <string name="send_btn_title">Отправить</string>
+    <string name="save_btn_title">Сохранить</string>
+    <string name="result_title">Результат</string>
+</resources>
